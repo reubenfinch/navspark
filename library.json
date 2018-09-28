@@ -1,0 +1,12 @@
+{
+  "name": "NAVSPARK",
+  "keywords": "GPS, GNSS, NAVSPARK",
+  "description": "Library for Navspark GPS/GNSS",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/vulnis/navspark.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
